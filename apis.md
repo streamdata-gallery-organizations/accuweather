@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28270-deve
 x-kinRank: "7"
 x-alexaRank: "370"
 tags: AccuWeather
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/accuweather/master/_listings/accuweather/apis.md
 specificationVersion: "0.14"
 apis: []
